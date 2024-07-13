@@ -1,0 +1,10 @@
+E:\C#项目\纵横断面计算_713\纵横断面计算_713\bin\Debug\纵横断面计算_713.exe.config
+E:\C#项目\纵横断面计算_713\纵横断面计算_713\bin\Debug\纵横断面计算_713.exe
+E:\C#项目\纵横断面计算_713\纵横断面计算_713\bin\Debug\纵横断面计算_713.pdb
+E:\C#项目\纵横断面计算_713\纵横断面计算_713\obj\Debug\纵横断面计算_713.csprojAssemblyReference.cache
+E:\C#项目\纵横断面计算_713\纵横断面计算_713\obj\Debug\纵横断面计算_713.Form1.resources
+E:\C#项目\纵横断面计算_713\纵横断面计算_713\obj\Debug\纵横断面计算_713.Properties.Resources.resources
+E:\C#项目\纵横断面计算_713\纵横断面计算_713\obj\Debug\纵横断面计算_713.csproj.GenerateResource.cache
+E:\C#项目\纵横断面计算_713\纵横断面计算_713\obj\Debug\纵横断面计算_713.csproj.CoreCompileInputs.cache
+E:\C#项目\纵横断面计算_713\纵横断面计算_713\obj\Debug\纵横断面计算_713.exe
+E:\C#项目\纵横断面计算_713\纵横断面计算_713\obj\Debug\纵横断面计算_713.pdb

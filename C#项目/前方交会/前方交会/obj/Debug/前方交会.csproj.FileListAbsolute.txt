@@ -1,0 +1,10 @@
+E:\C#项目\前方交会\前方交会\bin\Debug\前方交会.exe.config
+E:\C#项目\前方交会\前方交会\bin\Debug\前方交会.exe
+E:\C#项目\前方交会\前方交会\bin\Debug\前方交会.pdb
+E:\C#项目\前方交会\前方交会\obj\Debug\前方交会.csproj.AssemblyReference.cache
+E:\C#项目\前方交会\前方交会\obj\Debug\前方交会.Form1.resources
+E:\C#项目\前方交会\前方交会\obj\Debug\前方交会.Properties.Resources.resources
+E:\C#项目\前方交会\前方交会\obj\Debug\前方交会.csproj.GenerateResource.cache
+E:\C#项目\前方交会\前方交会\obj\Debug\前方交会.csproj.CoreCompileInputs.cache
+E:\C#项目\前方交会\前方交会\obj\Debug\前方交会.exe
+E:\C#项目\前方交会\前方交会\obj\Debug\前方交会.pdb

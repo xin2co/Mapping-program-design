@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "水准网平差及精度评定程序", "水准网平差及精度评定程序\水准网平差及精度评定程序.csproj", "{65826750-A79A-4BA8-B87C-E7845639A9B7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "水准网平差及精度评定", "水准网平差及精度评定\水准网平差及精度评定.vdproj", "{F7D4B99A-D3ED-4550-9343-1D6508AE2EF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65826750-A79A-4BA8-B87C-E7845639A9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65826750-A79A-4BA8-B87C-E7845639A9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65826750-A79A-4BA8-B87C-E7845639A9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65826750-A79A-4BA8-B87C-E7845639A9B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D4B99A-D3ED-4550-9343-1D6508AE2EF5}.Debug|Any CPU.ActiveCfg = Debug
+		{F7D4B99A-D3ED-4550-9343-1D6508AE2EF5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B43467B3-5496-4C8F-9D2D-644823AFF973}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+E:\C#项目\GeodeticLine\GeodeticLine\bin\Debug\GeodeticLine.exe.config
+E:\C#项目\GeodeticLine\GeodeticLine\bin\Debug\GeodeticLine.exe
+E:\C#项目\GeodeticLine\GeodeticLine\bin\Debug\GeodeticLine.pdb
+E:\C#项目\GeodeticLine\GeodeticLine\obj\Debug\GeodeticLine.csproj.AssemblyReference.cache
+E:\C#项目\GeodeticLine\GeodeticLine\obj\Debug\GeodeticLine.Form1.resources
+E:\C#项目\GeodeticLine\GeodeticLine\obj\Debug\GeodeticLine.Properties.Resources.resources
+E:\C#项目\GeodeticLine\GeodeticLine\obj\Debug\GeodeticLine.csproj.GenerateResource.cache
+E:\C#项目\GeodeticLine\GeodeticLine\obj\Debug\GeodeticLine.csproj.CoreCompileInputs.cache
+E:\C#项目\GeodeticLine\GeodeticLine\obj\Debug\GeodeticLine.exe
+E:\C#项目\GeodeticLine\GeodeticLine\obj\Debug\GeodeticLine.pdb

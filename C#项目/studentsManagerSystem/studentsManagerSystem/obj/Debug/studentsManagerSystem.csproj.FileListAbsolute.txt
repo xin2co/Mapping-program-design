@@ -1,0 +1,13 @@
+E:\C#项目\studentsManagerSystem\studentsManagerSystem\bin\Debug\studentsManagerSystem.exe.config
+E:\C#项目\studentsManagerSystem\studentsManagerSystem\bin\Debug\studentsManagerSystem.exe
+E:\C#项目\studentsManagerSystem\studentsManagerSystem\bin\Debug\studentsManagerSystem.pdb
+E:\C#项目\studentsManagerSystem\studentsManagerSystem\bin\Debug\Newtonsoft.Json.dll
+E:\C#项目\studentsManagerSystem\studentsManagerSystem\bin\Debug\Newtonsoft.Json.xml
+E:\C#项目\studentsManagerSystem\studentsManagerSystem\obj\Debug\studentsManagerSystem.csproj.AssemblyReference.cache
+E:\C#项目\studentsManagerSystem\studentsManagerSystem\obj\Debug\studentsManagerSystem.Form1.resources
+E:\C#项目\studentsManagerSystem\studentsManagerSystem\obj\Debug\studentsManagerSystem.Properties.Resources.resources
+E:\C#项目\studentsManagerSystem\studentsManagerSystem\obj\Debug\studentsManagerSystem.csproj.GenerateResource.cache
+E:\C#项目\studentsManagerSystem\studentsManagerSystem\obj\Debug\studentsManagerSystem.csproj.CoreCompileInputs.cache
+E:\C#项目\studentsManagerSystem\studentsManagerSystem\obj\Debug\studentsManagerSystem.csproj.CopyComplete
+E:\C#项目\studentsManagerSystem\studentsManagerSystem\obj\Debug\studentsManagerSystem.exe
+E:\C#项目\studentsManagerSystem\studentsManagerSystem\obj\Debug\studentsManagerSystem.pdb

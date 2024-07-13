@@ -1,0 +1,7 @@
+E:\C#项目\studentManager\studentManager\bin\Debug\studentManager.exe.config
+E:\C#项目\studentManager\studentManager\bin\Debug\studentManager.exe
+E:\C#项目\studentManager\studentManager\bin\Debug\studentManager.pdb
+E:\C#项目\studentManager\studentManager\obj\Debug\studentManager.csproj.AssemblyReference.cache
+E:\C#项目\studentManager\studentManager\obj\Debug\studentManager.csproj.CoreCompileInputs.cache
+E:\C#项目\studentManager\studentManager\obj\Debug\studentManager.exe
+E:\C#项目\studentManager\studentManager\obj\Debug\studentManager.pdb

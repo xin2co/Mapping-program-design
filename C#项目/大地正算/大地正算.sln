@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34930.48
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "大地正算", "大地正算\大地正算.csproj", "{7F0F1275-A65D-4FE3-8B7E-BE2CADF88E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F0F1275-A65D-4FE3-8B7E-BE2CADF88E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0F1275-A65D-4FE3-8B7E-BE2CADF88E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0F1275-A65D-4FE3-8B7E-BE2CADF88E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0F1275-A65D-4FE3-8B7E-BE2CADF88E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EB0E407-402D-4490-BF73-43828C19CE50}
+	EndGlobalSection
+EndGlobal

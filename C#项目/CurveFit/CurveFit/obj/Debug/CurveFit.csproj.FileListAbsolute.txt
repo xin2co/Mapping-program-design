@@ -1,0 +1,10 @@
+E:\C#项目\CurveFit\CurveFit\bin\Debug\CurveFit.exe.config
+E:\C#项目\CurveFit\CurveFit\bin\Debug\CurveFit.exe
+E:\C#项目\CurveFit\CurveFit\bin\Debug\CurveFit.pdb
+E:\C#项目\CurveFit\CurveFit\obj\Debug\CurveFit.csproj.AssemblyReference.cache
+E:\C#项目\CurveFit\CurveFit\obj\Debug\CurveFit.Form1.resources
+E:\C#项目\CurveFit\CurveFit\obj\Debug\CurveFit.Properties.Resources.resources
+E:\C#项目\CurveFit\CurveFit\obj\Debug\CurveFit.csproj.GenerateResource.cache
+E:\C#项目\CurveFit\CurveFit\obj\Debug\CurveFit.csproj.CoreCompileInputs.cache
+E:\C#项目\CurveFit\CurveFit\obj\Debug\CurveFit.exe
+E:\C#项目\CurveFit\CurveFit\obj\Debug\CurveFit.pdb

@@ -1,0 +1,10 @@
+E:\C#项目\fitceshi\fitceshi\bin\Debug\fitceshi.exe.config
+E:\C#项目\fitceshi\fitceshi\bin\Debug\fitceshi.exe
+E:\C#项目\fitceshi\fitceshi\bin\Debug\fitceshi.pdb
+E:\C#项目\fitceshi\fitceshi\obj\Debug\fitceshi.csproj.AssemblyReference.cache
+E:\C#项目\fitceshi\fitceshi\obj\Debug\fitceshi.Form1.resources
+E:\C#项目\fitceshi\fitceshi\obj\Debug\fitceshi.Properties.Resources.resources
+E:\C#项目\fitceshi\fitceshi\obj\Debug\fitceshi.csproj.GenerateResource.cache
+E:\C#项目\fitceshi\fitceshi\obj\Debug\fitceshi.csproj.CoreCompileInputs.cache
+E:\C#项目\fitceshi\fitceshi\obj\Debug\fitceshi.exe
+E:\C#项目\fitceshi\fitceshi\obj\Debug\fitceshi.pdb

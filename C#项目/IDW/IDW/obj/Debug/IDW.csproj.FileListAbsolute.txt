@@ -1,0 +1,10 @@
+E:\C#项目\IDW\IDW\bin\Debug\IDW.exe.config
+E:\C#项目\IDW\IDW\bin\Debug\IDW.exe
+E:\C#项目\IDW\IDW\bin\Debug\IDW.pdb
+E:\C#项目\IDW\IDW\obj\Debug\IDW.csproj.AssemblyReference.cache
+E:\C#项目\IDW\IDW\obj\Debug\IDW.Form1.resources
+E:\C#项目\IDW\IDW\obj\Debug\IDW.Properties.Resources.resources
+E:\C#项目\IDW\IDW\obj\Debug\IDW.csproj.GenerateResource.cache
+E:\C#项目\IDW\IDW\obj\Debug\IDW.csproj.CoreCompileInputs.cache
+E:\C#项目\IDW\IDW\obj\Debug\IDW.exe
+E:\C#项目\IDW\IDW\obj\Debug\IDW.pdb

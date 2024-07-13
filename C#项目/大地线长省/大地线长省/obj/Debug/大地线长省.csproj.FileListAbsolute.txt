@@ -1,0 +1,11 @@
+E:\C#项目\大地线长省\大地线长省\bin\Debug\大地线长省.exe.config
+E:\C#项目\大地线长省\大地线长省\bin\Debug\大地线长省.exe
+E:\C#项目\大地线长省\大地线长省\bin\Debug\大地线长省.pdb
+E:\C#项目\大地线长省\大地线长省\obj\Debug\大地线长省.csproj.AssemblyReference.cache
+E:\C#项目\大地线长省\大地线长省\obj\Debug\大地线长省.Form1.resources
+E:\C#项目\大地线长省\大地线长省\obj\Debug\大地线长省.Properties.Resources.resources
+E:\C#项目\大地线长省\大地线长省\obj\Debug\大地线长省.csproj.GenerateResource.cache
+E:\C#项目\大地线长省\大地线长省\obj\Debug\大地线长省.csproj.CoreCompileInputs.cache
+E:\C#项目\大地线长省\大地线长省\obj\Debug\大地线长省.exe
+E:\C#项目\大地线长省\大地线长省\obj\Debug\大地线长省.pdb
+E:\C#项目\大地线长省\大地线长省\obj\Debug\大地线长省.csprojAssemblyReference.cache

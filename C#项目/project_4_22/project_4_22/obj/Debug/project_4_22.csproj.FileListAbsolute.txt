@@ -1,0 +1,7 @@
+E:\C#项目\project_4_22\project_4_22\bin\Debug\project_4_22.exe.config
+E:\C#项目\project_4_22\project_4_22\bin\Debug\project_4_22.exe
+E:\C#项目\project_4_22\project_4_22\bin\Debug\project_4_22.pdb
+E:\C#项目\project_4_22\project_4_22\obj\Debug\project_4_22.csproj.AssemblyReference.cache
+E:\C#项目\project_4_22\project_4_22\obj\Debug\project_4_22.csproj.CoreCompileInputs.cache
+E:\C#项目\project_4_22\project_4_22\obj\Debug\project_4_22.exe
+E:\C#项目\project_4_22\project_4_22\obj\Debug\project_4_22.pdb

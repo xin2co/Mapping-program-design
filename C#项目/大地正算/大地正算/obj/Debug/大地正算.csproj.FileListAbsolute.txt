@@ -1,0 +1,10 @@
+E:\C#项目\大地正算\大地正算\bin\Debug\大地正算.exe.config
+E:\C#项目\大地正算\大地正算\bin\Debug\大地正算.exe
+E:\C#项目\大地正算\大地正算\bin\Debug\大地正算.pdb
+E:\C#项目\大地正算\大地正算\obj\Debug\大地正算.csprojAssemblyReference.cache
+E:\C#项目\大地正算\大地正算\obj\Debug\大地正算.Form1.resources
+E:\C#项目\大地正算\大地正算\obj\Debug\大地正算.Properties.Resources.resources
+E:\C#项目\大地正算\大地正算\obj\Debug\大地正算.csproj.GenerateResource.cache
+E:\C#项目\大地正算\大地正算\obj\Debug\大地正算.csproj.CoreCompileInputs.cache
+E:\C#项目\大地正算\大地正算\obj\Debug\大地正算.exe
+E:\C#项目\大地正算\大地正算\obj\Debug\大地正算.pdb

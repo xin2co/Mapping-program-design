@@ -1,0 +1,10 @@
+E:\C#项目\Form0404\Form0404\bin\Debug\Form0404.exe.config
+E:\C#项目\Form0404\Form0404\bin\Debug\Form0404.exe
+E:\C#项目\Form0404\Form0404\bin\Debug\Form0404.pdb
+E:\C#项目\Form0404\Form0404\obj\Debug\Form0404.csproj.AssemblyReference.cache
+E:\C#项目\Form0404\Form0404\obj\Debug\Form0404.Form1.resources
+E:\C#项目\Form0404\Form0404\obj\Debug\Form0404.Properties.Resources.resources
+E:\C#项目\Form0404\Form0404\obj\Debug\Form0404.csproj.GenerateResource.cache
+E:\C#项目\Form0404\Form0404\obj\Debug\Form0404.csproj.CoreCompileInputs.cache
+E:\C#项目\Form0404\Form0404\obj\Debug\Form0404.exe
+E:\C#项目\Form0404\Form0404\obj\Debug\Form0404.pdb

@@ -1,0 +1,10 @@
+E:\C#项目\五点拟合\五点拟合\bin\Debug\五点拟合.exe.config
+E:\C#项目\五点拟合\五点拟合\bin\Debug\五点拟合.exe
+E:\C#项目\五点拟合\五点拟合\bin\Debug\五点拟合.pdb
+E:\C#项目\五点拟合\五点拟合\obj\Debug\五点拟合.csproj.AssemblyReference.cache
+E:\C#项目\五点拟合\五点拟合\obj\Debug\五点拟合.Form1.resources
+E:\C#项目\五点拟合\五点拟合\obj\Debug\五点拟合.Properties.Resources.resources
+E:\C#项目\五点拟合\五点拟合\obj\Debug\五点拟合.csproj.GenerateResource.cache
+E:\C#项目\五点拟合\五点拟合\obj\Debug\五点拟合.csproj.CoreCompileInputs.cache
+E:\C#项目\五点拟合\五点拟合\obj\Debug\五点拟合.exe
+E:\C#项目\五点拟合\五点拟合\obj\Debug\五点拟合.pdb
