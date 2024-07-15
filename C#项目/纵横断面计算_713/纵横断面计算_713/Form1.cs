@@ -88,6 +88,7 @@ namespace 纵横断面计算_713
         {
             double deltaX = p2.x - p1.x;
             double deltaY = p2.y - p1.y;
+
             double degree = Math.Atan2(deltaY, deltaX);
             return degree;
 
