@@ -1,0 +1,10 @@
+E:\C#项目\电离层练习7_17\电离层练习7_17\bin\Debug\电离层练习7_17.exe.config
+E:\C#项目\电离层练习7_17\电离层练习7_17\bin\Debug\电离层练习7_17.exe
+E:\C#项目\电离层练习7_17\电离层练习7_17\bin\Debug\电离层练习7_17.pdb
+E:\C#项目\电离层练习7_17\电离层练习7_17\obj\Debug\电离层练习7_17.csprojAssemblyReference.cache
+E:\C#项目\电离层练习7_17\电离层练习7_17\obj\Debug\电离层练习7_17.Form1.resources
+E:\C#项目\电离层练习7_17\电离层练习7_17\obj\Debug\电离层练习7_17.Properties.Resources.resources
+E:\C#项目\电离层练习7_17\电离层练习7_17\obj\Debug\电离层练习7_17.csproj.GenerateResource.cache
+E:\C#项目\电离层练习7_17\电离层练习7_17\obj\Debug\电离层练习7_17.csproj.CoreCompileInputs.cache
+E:\C#项目\电离层练习7_17\电离层练习7_17\obj\Debug\电离层练习7_17.exe
+E:\C#项目\电离层练习7_17\电离层练习7_17\obj\Debug\电离层练习7_17.pdb

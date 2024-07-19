@@ -1,0 +1,10 @@
+E:\C#项目\第一次测试\第一次测试\bin\Debug\第一次测试.exe.config
+E:\C#项目\第一次测试\第一次测试\bin\Debug\第一次测试.exe
+E:\C#项目\第一次测试\第一次测试\bin\Debug\第一次测试.pdb
+E:\C#项目\第一次测试\第一次测试\obj\Debug\第一次测试.csprojAssemblyReference.cache
+E:\C#项目\第一次测试\第一次测试\obj\Debug\第一次测试.Form1.resources
+E:\C#项目\第一次测试\第一次测试\obj\Debug\第一次测试.Properties.Resources.resources
+E:\C#项目\第一次测试\第一次测试\obj\Debug\第一次测试.csproj.GenerateResource.cache
+E:\C#项目\第一次测试\第一次测试\obj\Debug\第一次测试.csproj.CoreCompileInputs.cache
+E:\C#项目\第一次测试\第一次测试\obj\Debug\第一次测试.exe
+E:\C#项目\第一次测试\第一次测试\obj\Debug\第一次测试.pdb

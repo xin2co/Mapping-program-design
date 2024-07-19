@@ -1,0 +1,10 @@
+E:\C#项目\protect0426\protect0426\bin\Debug\protect0426.exe.config
+E:\C#项目\protect0426\protect0426\bin\Debug\protect0426.exe
+E:\C#项目\protect0426\protect0426\bin\Debug\protect0426.pdb
+E:\C#项目\protect0426\protect0426\obj\Debug\protect0426.csproj.AssemblyReference.cache
+E:\C#项目\protect0426\protect0426\obj\Debug\protect0426.Properties.Resources.resources
+E:\C#项目\protect0426\protect0426\obj\Debug\protect0426.csproj.GenerateResource.cache
+E:\C#项目\protect0426\protect0426\obj\Debug\protect0426.csproj.CoreCompileInputs.cache
+E:\C#项目\protect0426\protect0426\obj\Debug\protect0426.exe
+E:\C#项目\protect0426\protect0426\obj\Debug\protect0426.pdb
+E:\C#项目\protect0426\protect0426\obj\Debug\protect0426.Form1.resources

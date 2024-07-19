@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34930.48
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "五点拟合_718", "五点拟合_718\五点拟合_718.csproj", "{6F1D52F4-0B1A-43E5-A1F9-D35B9DB68F87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F1D52F4-0B1A-43E5-A1F9-D35B9DB68F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1D52F4-0B1A-43E5-A1F9-D35B9DB68F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1D52F4-0B1A-43E5-A1F9-D35B9DB68F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1D52F4-0B1A-43E5-A1F9-D35B9DB68F87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48FB3450-5C1E-422A-9400-27AFA4692922}
+	EndGlobalSection
+EndGlobal

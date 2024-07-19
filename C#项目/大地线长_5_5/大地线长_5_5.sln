@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "大地线长_5_5", "大地线长_5_5\大地线长_5_5.csproj", "{579C7391-A675-4AB9-8573-E9768D2AAE25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{579C7391-A675-4AB9-8573-E9768D2AAE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579C7391-A675-4AB9-8573-E9768D2AAE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579C7391-A675-4AB9-8573-E9768D2AAE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579C7391-A675-4AB9-8573-E9768D2AAE25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC71ED38-DBB2-41B9-8FBA-B47515B16583}
+	EndGlobalSection
+EndGlobal

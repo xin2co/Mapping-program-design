@@ -1,0 +1,10 @@
+E:\C#项目\对流层改正\对流层改正\bin\Debug\对流层改正.exe.config
+E:\C#项目\对流层改正\对流层改正\bin\Debug\对流层改正.exe
+E:\C#项目\对流层改正\对流层改正\bin\Debug\对流层改正.pdb
+E:\C#项目\对流层改正\对流层改正\obj\Debug\对流层改正.csprojAssemblyReference.cache
+E:\C#项目\对流层改正\对流层改正\obj\Debug\对流层改正.Form1.resources
+E:\C#项目\对流层改正\对流层改正\obj\Debug\对流层改正.Properties.Resources.resources
+E:\C#项目\对流层改正\对流层改正\obj\Debug\对流层改正.csproj.GenerateResource.cache
+E:\C#项目\对流层改正\对流层改正\obj\Debug\对流层改正.csproj.CoreCompileInputs.cache
+E:\C#项目\对流层改正\对流层改正\obj\Debug\对流层改正.exe
+E:\C#项目\对流层改正\对流层改正\obj\Debug\对流层改正.pdb

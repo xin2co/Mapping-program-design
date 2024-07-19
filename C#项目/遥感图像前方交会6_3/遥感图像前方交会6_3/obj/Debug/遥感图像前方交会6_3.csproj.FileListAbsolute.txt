@@ -1,0 +1,10 @@
+E:\C#项目\遥感图像前方交会6_3\遥感图像前方交会6_3\bin\Debug\遥感图像前方交会6_3.exe.config
+E:\C#项目\遥感图像前方交会6_3\遥感图像前方交会6_3\bin\Debug\遥感图像前方交会6_3.exe
+E:\C#项目\遥感图像前方交会6_3\遥感图像前方交会6_3\bin\Debug\遥感图像前方交会6_3.pdb
+E:\C#项目\遥感图像前方交会6_3\遥感图像前方交会6_3\obj\Debug\遥感图像前方交会6_3.csproj.AssemblyReference.cache
+E:\C#项目\遥感图像前方交会6_3\遥感图像前方交会6_3\obj\Debug\遥感图像前方交会6_3.Form1.resources
+E:\C#项目\遥感图像前方交会6_3\遥感图像前方交会6_3\obj\Debug\遥感图像前方交会6_3.Properties.Resources.resources
+E:\C#项目\遥感图像前方交会6_3\遥感图像前方交会6_3\obj\Debug\遥感图像前方交会6_3.csproj.GenerateResource.cache
+E:\C#项目\遥感图像前方交会6_3\遥感图像前方交会6_3\obj\Debug\遥感图像前方交会6_3.csproj.CoreCompileInputs.cache
+E:\C#项目\遥感图像前方交会6_3\遥感图像前方交会6_3\obj\Debug\遥感图像前方交会6_3.exe
+E:\C#项目\遥感图像前方交会6_3\遥感图像前方交会6_3\obj\Debug\遥感图像前方交会6_3.pdb

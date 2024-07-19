@@ -1,0 +1,2 @@
+E:\C#项目\ceshi\ceshi\obj\Debug\ceshi.csproj.AssemblyReference.cache
+E:\C#项目\ceshi\ceshi\obj\Debug\ceshi.csproj.CoreCompileInputs.cache

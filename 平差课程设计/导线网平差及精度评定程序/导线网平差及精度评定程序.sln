@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "导线网平差及精度评定程序", "导线网平差及精度评定程序\导线网平差及精度评定程序.csproj", "{935F4982-33F9-472E-8C58-981DB51CF0BF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\导线网平差及精度评定\Setup1\Setup1.vdproj", "{258416A7-98E6-4655-B2F6-D2AB5781B93B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{935F4982-33F9-472E-8C58-981DB51CF0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935F4982-33F9-472E-8C58-981DB51CF0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935F4982-33F9-472E-8C58-981DB51CF0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935F4982-33F9-472E-8C58-981DB51CF0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258416A7-98E6-4655-B2F6-D2AB5781B93B}.Debug|Any CPU.ActiveCfg = Debug
+		{258416A7-98E6-4655-B2F6-D2AB5781B93B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC53CFC-E335-410D-A33C-9F975B91E9B9}
+	EndGlobalSection
+EndGlobal

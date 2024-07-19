@@ -1,0 +1,10 @@
+E:\C#项目\大地线长_5_5\大地线长_5_5\bin\Debug\大地线长_5_5.exe.config
+E:\C#项目\大地线长_5_5\大地线长_5_5\bin\Debug\大地线长_5_5.exe
+E:\C#项目\大地线长_5_5\大地线长_5_5\bin\Debug\大地线长_5_5.pdb
+E:\C#项目\大地线长_5_5\大地线长_5_5\obj\Debug\大地线长_5_5.csproj.AssemblyReference.cache
+E:\C#项目\大地线长_5_5\大地线长_5_5\obj\Debug\大地线长_5_5.Form1.resources
+E:\C#项目\大地线长_5_5\大地线长_5_5\obj\Debug\大地线长_5_5.Properties.Resources.resources
+E:\C#项目\大地线长_5_5\大地线长_5_5\obj\Debug\大地线长_5_5.csproj.GenerateResource.cache
+E:\C#项目\大地线长_5_5\大地线长_5_5\obj\Debug\大地线长_5_5.csproj.CoreCompileInputs.cache
+E:\C#项目\大地线长_5_5\大地线长_5_5\obj\Debug\大地线长_5_5.exe
+E:\C#项目\大地线长_5_5\大地线长_5_5\obj\Debug\大地线长_5_5.pdb

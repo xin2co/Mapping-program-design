@@ -1,0 +1,15 @@
+E:\CSProject\FormApp0706\FormApp0706\bin\Debug\FormApp0706.exe.config
+E:\CSProject\FormApp0706\FormApp0706\bin\Debug\FormApp0706.exe
+E:\CSProject\FormApp0706\FormApp0706\bin\Debug\FormApp0706.pdb
+E:\CSProject\FormApp0706\FormApp0706\obj\Debug\FormApp0706.Form1.resources
+E:\CSProject\FormApp0706\FormApp0706\obj\Debug\FormApp0706.Properties.Resources.resources
+E:\CSProject\FormApp0706\FormApp0706\obj\Debug\FormApp0706.csproj.GenerateResource.cache
+E:\CSProject\FormApp0706\FormApp0706\obj\Debug\FormApp0706.exe
+E:\CSProject\FormApp0706\FormApp0706\obj\Debug\FormApp0706.pdb
+E:\CSProject\FormApp0706\FormApp0706\bin\Debug\Newtonsoft.Json.dll
+E:\CSProject\FormApp0706\FormApp0706\obj\Debug\FormApp0706.csprojAssemblyReference.cache
+E:\CSProject\FormApp0706\FormApp0706\obj\Debug\FormApp0706.csproj.CopyComplete
+E:\秘籍\测绘程序设计\练习\FormApp0706\FormApp0706\FormApp0706\obj\Debug\FormApp0706.exe
+E:\秘籍\测绘程序设计\练习\FormApp0706\FormApp0706\FormApp0706\obj\Debug\FormApp0706.pdb
+E:\C#项目\FormApp0706\FormApp0706\FormApp0706\obj\Debug\FormApp0706.exe
+E:\C#项目\FormApp0706\FormApp0706\FormApp0706\obj\Debug\FormApp0706.pdb

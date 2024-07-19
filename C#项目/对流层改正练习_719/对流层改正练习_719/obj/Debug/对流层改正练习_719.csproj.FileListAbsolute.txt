@@ -1,0 +1,10 @@
+E:\C#项目\对流层改正练习_719\对流层改正练习_719\obj\Debug\对流层改正练习_719.csprojAssemblyReference.cache
+E:\C#项目\对流层改正练习_719\对流层改正练习_719\obj\Debug\对流层改正练习_719.Form1.resources
+E:\C#项目\对流层改正练习_719\对流层改正练习_719\obj\Debug\对流层改正练习_719.Properties.Resources.resources
+E:\C#项目\对流层改正练习_719\对流层改正练习_719\obj\Debug\对流层改正练习_719.csproj.GenerateResource.cache
+E:\C#项目\对流层改正练习_719\对流层改正练习_719\obj\Debug\对流层改正练习_719.csproj.CoreCompileInputs.cache
+E:\C#项目\对流层改正练习_719\对流层改正练习_719\bin\Debug\对流层改正练习_719.exe.config
+E:\C#项目\对流层改正练习_719\对流层改正练习_719\bin\Debug\对流层改正练习_719.exe
+E:\C#项目\对流层改正练习_719\对流层改正练习_719\bin\Debug\对流层改正练习_719.pdb
+E:\C#项目\对流层改正练习_719\对流层改正练习_719\obj\Debug\对流层改正练习_719.exe
+E:\C#项目\对流层改正练习_719\对流层改正练习_719\obj\Debug\对流层改正练习_719.pdb

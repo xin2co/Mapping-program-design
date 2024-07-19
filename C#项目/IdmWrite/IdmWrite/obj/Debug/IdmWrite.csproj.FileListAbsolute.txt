@@ -1,0 +1,10 @@
+E:\C#项目\IdmWrite\IdmWrite\bin\Debug\IdmWrite.exe.config
+E:\C#项目\IdmWrite\IdmWrite\bin\Debug\IdmWrite.exe
+E:\C#项目\IdmWrite\IdmWrite\bin\Debug\IdmWrite.pdb
+E:\C#项目\IdmWrite\IdmWrite\obj\Debug\IdmWrite.csproj.AssemblyReference.cache
+E:\C#项目\IdmWrite\IdmWrite\obj\Debug\IdmWrite.Form1.resources
+E:\C#项目\IdmWrite\IdmWrite\obj\Debug\IdmWrite.Properties.Resources.resources
+E:\C#项目\IdmWrite\IdmWrite\obj\Debug\IdmWrite.csproj.GenerateResource.cache
+E:\C#项目\IdmWrite\IdmWrite\obj\Debug\IdmWrite.csproj.CoreCompileInputs.cache
+E:\C#项目\IdmWrite\IdmWrite\obj\Debug\IdmWrite.exe
+E:\C#项目\IdmWrite\IdmWrite\obj\Debug\IdmWrite.pdb

@@ -1,0 +1,10 @@
+E:\C#项目\纵横断面计算练习718\纵横断面计算练习718\bin\Debug\纵横断面计算练习718.exe.config
+E:\C#项目\纵横断面计算练习718\纵横断面计算练习718\bin\Debug\纵横断面计算练习718.exe
+E:\C#项目\纵横断面计算练习718\纵横断面计算练习718\bin\Debug\纵横断面计算练习718.pdb
+E:\C#项目\纵横断面计算练习718\纵横断面计算练习718\obj\Debug\纵横断面计算练习718.csprojAssemblyReference.cache
+E:\C#项目\纵横断面计算练习718\纵横断面计算练习718\obj\Debug\纵横断面计算练习718.Form1.resources
+E:\C#项目\纵横断面计算练习718\纵横断面计算练习718\obj\Debug\纵横断面计算练习718.Properties.Resources.resources
+E:\C#项目\纵横断面计算练习718\纵横断面计算练习718\obj\Debug\纵横断面计算练习718.csproj.GenerateResource.cache
+E:\C#项目\纵横断面计算练习718\纵横断面计算练习718\obj\Debug\纵横断面计算练习718.csproj.CoreCompileInputs.cache
+E:\C#项目\纵横断面计算练习718\纵横断面计算练习718\obj\Debug\纵横断面计算练习718.exe
+E:\C#项目\纵横断面计算练习718\纵横断面计算练习718\obj\Debug\纵横断面计算练习718.pdb

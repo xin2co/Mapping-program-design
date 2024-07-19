@@ -1,0 +1,10 @@
+E:\C#项目\无人机刷题系统V2_0\无人机刷题系统V2_0\obj\Debug\无人机刷题系统V3_0.csproj.AssemblyReference.cache
+E:\C#项目\无人机刷题系统V2_0\无人机刷题系统V2_0\obj\Debug\无人机刷题系统V3_0.Form1.resources
+E:\C#项目\无人机刷题系统V2_0\无人机刷题系统V2_0\obj\Debug\无人机刷题系统V2_0.Properties.Resources.resources
+E:\C#项目\无人机刷题系统V2_0\无人机刷题系统V2_0\obj\Debug\无人机刷题系统V3_0.csproj.GenerateResource.cache
+E:\C#项目\无人机刷题系统V2_0\无人机刷题系统V2_0\obj\Debug\无人机刷题系统V3_0.csproj.CoreCompileInputs.cache
+E:\C#项目\无人机刷题系统V2_0\无人机刷题系统V2_0\obj\Debug\无人机刷题系统V2_0.exe
+E:\C#项目\无人机刷题系统V2_0\无人机刷题系统V2_0\obj\Debug\无人机刷题系统V2_0.pdb
+E:\C#项目\无人机刷题系统V2_0\无人机刷题系统V2_0\bin\Debug\无人机刷题系统V2_0.exe.config
+E:\C#项目\无人机刷题系统V2_0\无人机刷题系统V2_0\bin\Debug\无人机刷题系统V2_0.exe
+E:\C#项目\无人机刷题系统V2_0\无人机刷题系统V2_0\bin\Debug\无人机刷题系统V2_0.pdb

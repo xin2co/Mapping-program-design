@@ -1,0 +1,10 @@
+E:\C#项目\TaxiData\TaxiData\bin\Debug\TaxiData.exe.config
+E:\C#项目\TaxiData\TaxiData\bin\Debug\TaxiData.exe
+E:\C#项目\TaxiData\TaxiData\bin\Debug\TaxiData.pdb
+E:\C#项目\TaxiData\TaxiData\obj\Debug\TaxiData.csproj.AssemblyReference.cache
+E:\C#项目\TaxiData\TaxiData\obj\Debug\TaxiData.Form1.resources
+E:\C#项目\TaxiData\TaxiData\obj\Debug\TaxiData.Properties.Resources.resources
+E:\C#项目\TaxiData\TaxiData\obj\Debug\TaxiData.csproj.GenerateResource.cache
+E:\C#项目\TaxiData\TaxiData\obj\Debug\TaxiData.csproj.CoreCompileInputs.cache
+E:\C#项目\TaxiData\TaxiData\obj\Debug\TaxiData.exe
+E:\C#项目\TaxiData\TaxiData\obj\Debug\TaxiData.pdb

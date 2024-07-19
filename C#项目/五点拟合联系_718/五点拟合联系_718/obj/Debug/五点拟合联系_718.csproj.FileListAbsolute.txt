@@ -1,0 +1,10 @@
+E:\C#项目\五点拟合联系_718\五点拟合联系_718\bin\Debug\五点拟合联系_718.exe.config
+E:\C#项目\五点拟合联系_718\五点拟合联系_718\bin\Debug\五点拟合联系_718.exe
+E:\C#项目\五点拟合联系_718\五点拟合联系_718\bin\Debug\五点拟合联系_718.pdb
+E:\C#项目\五点拟合联系_718\五点拟合联系_718\obj\Debug\五点拟合联系_718.csprojAssemblyReference.cache
+E:\C#项目\五点拟合联系_718\五点拟合联系_718\obj\Debug\五点拟合联系_718.Form1.resources
+E:\C#项目\五点拟合联系_718\五点拟合联系_718\obj\Debug\五点拟合联系_718.Properties.Resources.resources
+E:\C#项目\五点拟合联系_718\五点拟合联系_718\obj\Debug\五点拟合联系_718.csproj.GenerateResource.cache
+E:\C#项目\五点拟合联系_718\五点拟合联系_718\obj\Debug\五点拟合联系_718.csproj.CoreCompileInputs.cache
+E:\C#项目\五点拟合联系_718\五点拟合联系_718\obj\Debug\五点拟合联系_718.exe
+E:\C#项目\五点拟合联系_718\五点拟合联系_718\obj\Debug\五点拟合联系_718.pdb

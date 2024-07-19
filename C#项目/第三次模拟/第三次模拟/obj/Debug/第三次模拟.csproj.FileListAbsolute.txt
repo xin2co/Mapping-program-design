@@ -1,0 +1,10 @@
+E:\C#项目\第三次模拟\第三次模拟\obj\Debug\第三次模拟.csprojAssemblyReference.cache
+E:\C#项目\第三次模拟\第三次模拟\obj\Debug\第三次模拟.Form1.resources
+E:\C#项目\第三次模拟\第三次模拟\obj\Debug\第三次模拟.Properties.Resources.resources
+E:\C#项目\第三次模拟\第三次模拟\obj\Debug\第三次模拟.csproj.GenerateResource.cache
+E:\C#项目\第三次模拟\第三次模拟\obj\Debug\第三次模拟.csproj.CoreCompileInputs.cache
+E:\C#项目\第三次模拟\第三次模拟\bin\Debug\第三次模拟.exe.config
+E:\C#项目\第三次模拟\第三次模拟\bin\Debug\第三次模拟.exe
+E:\C#项目\第三次模拟\第三次模拟\bin\Debug\第三次模拟.pdb
+E:\C#项目\第三次模拟\第三次模拟\obj\Debug\第三次模拟.exe
+E:\C#项目\第三次模拟\第三次模拟\obj\Debug\第三次模拟.pdb

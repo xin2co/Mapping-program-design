@@ -1,0 +1,10 @@
+E:\C#项目\五点拟合_714\五点拟合_714\bin\Debug\五点拟合_714.exe.config
+E:\C#项目\五点拟合_714\五点拟合_714\bin\Debug\五点拟合_714.exe
+E:\C#项目\五点拟合_714\五点拟合_714\bin\Debug\五点拟合_714.pdb
+E:\C#项目\五点拟合_714\五点拟合_714\obj\Debug\五点拟合_714.csprojAssemblyReference.cache
+E:\C#项目\五点拟合_714\五点拟合_714\obj\Debug\五点拟合_714.Form1.resources
+E:\C#项目\五点拟合_714\五点拟合_714\obj\Debug\五点拟合_714.Properties.Resources.resources
+E:\C#项目\五点拟合_714\五点拟合_714\obj\Debug\五点拟合_714.csproj.GenerateResource.cache
+E:\C#项目\五点拟合_714\五点拟合_714\obj\Debug\五点拟合_714.csproj.CoreCompileInputs.cache
+E:\C#项目\五点拟合_714\五点拟合_714\obj\Debug\五点拟合_714.exe
+E:\C#项目\五点拟合_714\五点拟合_714\obj\Debug\五点拟合_714.pdb

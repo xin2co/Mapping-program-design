@@ -1,0 +1,10 @@
+E:\C#项目\纵横断面\纵横断面\bin\Debug\纵横断面.exe.config
+E:\C#项目\纵横断面\纵横断面\bin\Debug\纵横断面.exe
+E:\C#项目\纵横断面\纵横断面\bin\Debug\纵横断面.pdb
+E:\C#项目\纵横断面\纵横断面\obj\Debug\纵横断面.csprojAssemblyReference.cache
+E:\C#项目\纵横断面\纵横断面\obj\Debug\纵横断面.Form1.resources
+E:\C#项目\纵横断面\纵横断面\obj\Debug\纵横断面.Properties.Resources.resources
+E:\C#项目\纵横断面\纵横断面\obj\Debug\纵横断面.csproj.GenerateResource.cache
+E:\C#项目\纵横断面\纵横断面\obj\Debug\纵横断面.csproj.CoreCompileInputs.cache
+E:\C#项目\纵横断面\纵横断面\obj\Debug\纵横断面.exe
+E:\C#项目\纵横断面\纵横断面\obj\Debug\纵横断面.pdb

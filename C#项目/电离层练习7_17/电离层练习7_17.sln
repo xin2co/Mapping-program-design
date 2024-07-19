@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34930.48
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "电离层练习7_17", "电离层练习7_17\电离层练习7_17.csproj", "{7A8FB470-B9D2-4851-A4BE-003432473CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A8FB470-B9D2-4851-A4BE-003432473CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8FB470-B9D2-4851-A4BE-003432473CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8FB470-B9D2-4851-A4BE-003432473CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8FB470-B9D2-4851-A4BE-003432473CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B56ABD3-E349-4A2F-A2B6-A7DB8609F4F1}
+	EndGlobalSection
+EndGlobal

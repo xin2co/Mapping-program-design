@@ -1,0 +1,9 @@
+E:\C#项目\Form02001\Form02001\bin\Debug\Form02001.exe.config
+E:\C#项目\Form02001\Form02001\bin\Debug\Form02001.exe
+E:\C#项目\Form02001\Form02001\bin\Debug\Form02001.pdb
+E:\C#项目\Form02001\Form02001\obj\Debug\Form02001.csproj.AssemblyReference.cache
+E:\C#项目\Form02001\Form02001\obj\Debug\Form02001.Properties.Resources.resources
+E:\C#项目\Form02001\Form02001\obj\Debug\Form02001.csproj.GenerateResource.cache
+E:\C#项目\Form02001\Form02001\obj\Debug\Form02001.csproj.CoreCompileInputs.cache
+E:\C#项目\Form02001\Form02001\obj\Debug\Form02001.exe
+E:\C#项目\Form02001\Form02001\obj\Debug\Form02001.pdb

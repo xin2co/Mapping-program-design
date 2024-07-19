@@ -1,0 +1,10 @@
+E:\C#项目\大地线长计算\大地线长计算\bin\Debug\大地线长计算.exe.config
+E:\C#项目\大地线长计算\大地线长计算\bin\Debug\大地线长计算.exe
+E:\C#项目\大地线长计算\大地线长计算\bin\Debug\大地线长计算.pdb
+E:\C#项目\大地线长计算\大地线长计算\obj\Debug\大地线长计算.csproj.AssemblyReference.cache
+E:\C#项目\大地线长计算\大地线长计算\obj\Debug\大地线长计算.Form1.resources
+E:\C#项目\大地线长计算\大地线长计算\obj\Debug\大地线长计算.Properties.Resources.resources
+E:\C#项目\大地线长计算\大地线长计算\obj\Debug\大地线长计算.csproj.GenerateResource.cache
+E:\C#项目\大地线长计算\大地线长计算\obj\Debug\大地线长计算.csproj.CoreCompileInputs.cache
+E:\C#项目\大地线长计算\大地线长计算\obj\Debug\大地线长计算.exe
+E:\C#项目\大地线长计算\大地线长计算\obj\Debug\大地线长计算.pdb

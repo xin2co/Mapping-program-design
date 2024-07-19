@@ -1,0 +1,10 @@
+E:\C#项目\前方交会练习719\前方交会练习719\bin\Debug\前方交会练习719.exe.config
+E:\C#项目\前方交会练习719\前方交会练习719\bin\Debug\前方交会练习719.exe
+E:\C#项目\前方交会练习719\前方交会练习719\bin\Debug\前方交会练习719.pdb
+E:\C#项目\前方交会练习719\前方交会练习719\obj\Debug\前方交会练习719.csprojAssemblyReference.cache
+E:\C#项目\前方交会练习719\前方交会练习719\obj\Debug\前方交会练习719.Form1.resources
+E:\C#项目\前方交会练习719\前方交会练习719\obj\Debug\前方交会练习719.Properties.Resources.resources
+E:\C#项目\前方交会练习719\前方交会练习719\obj\Debug\前方交会练习719.csproj.GenerateResource.cache
+E:\C#项目\前方交会练习719\前方交会练习719\obj\Debug\前方交会练习719.csproj.CoreCompileInputs.cache
+E:\C#项目\前方交会练习719\前方交会练习719\obj\Debug\前方交会练习719.exe
+E:\C#项目\前方交会练习719\前方交会练习719\obj\Debug\前方交会练习719.pdb
