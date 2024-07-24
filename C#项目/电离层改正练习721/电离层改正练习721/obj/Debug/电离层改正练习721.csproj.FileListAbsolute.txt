@@ -1,0 +1,10 @@
+E:\C#项目\电离层改正练习721\电离层改正练习721\bin\Debug\电离层改正练习721.exe.config
+E:\C#项目\电离层改正练习721\电离层改正练习721\bin\Debug\电离层改正练习721.exe
+E:\C#项目\电离层改正练习721\电离层改正练习721\bin\Debug\电离层改正练习721.pdb
+E:\C#项目\电离层改正练习721\电离层改正练习721\obj\Debug\电离层改正练习721.csprojAssemblyReference.cache
+E:\C#项目\电离层改正练习721\电离层改正练习721\obj\Debug\电离层改正练习721.Form1.resources
+E:\C#项目\电离层改正练习721\电离层改正练习721\obj\Debug\电离层改正练习721.Properties.Resources.resources
+E:\C#项目\电离层改正练习721\电离层改正练习721\obj\Debug\电离层改正练习721.csproj.GenerateResource.cache
+E:\C#项目\电离层改正练习721\电离层改正练习721\obj\Debug\电离层改正练习721.csproj.CoreCompileInputs.cache
+E:\C#项目\电离层改正练习721\电离层改正练习721\obj\Debug\电离层改正练习721.exe
+E:\C#项目\电离层改正练习721\电离层改正练习721\obj\Debug\电离层改正练习721.pdb

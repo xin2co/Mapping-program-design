@@ -1,0 +1,20 @@
+E:\C#文件\矩阵计算\矩阵计算\bin\Debug\矩阵计算.exe.config
+E:\C#文件\矩阵计算\矩阵计算\bin\Debug\矩阵计算.exe
+E:\C#文件\矩阵计算\矩阵计算\bin\Debug\矩阵计算.pdb
+E:\C#文件\矩阵计算\矩阵计算\obj\Debug\矩阵计算.csprojAssemblyReference.cache
+E:\C#文件\矩阵计算\矩阵计算\obj\Debug\矩阵计算.Form1.resources
+E:\C#文件\矩阵计算\矩阵计算\obj\Debug\矩阵计算.Properties.Resources.resources
+E:\C#文件\矩阵计算\矩阵计算\obj\Debug\矩阵计算.csproj.GenerateResource.cache
+E:\C#文件\矩阵计算\矩阵计算\obj\Debug\矩阵计算.csproj.CoreCompileInputs.cache
+E:\C#文件\矩阵计算\矩阵计算\obj\Debug\矩阵计算.exe
+E:\C#文件\矩阵计算\矩阵计算\obj\Debug\矩阵计算.pdb
+E:\秘籍\Mapping program design\矩阵计算\矩阵计算\矩阵计算\bin\Debug\矩阵计算.exe.config
+E:\秘籍\Mapping program design\矩阵计算\矩阵计算\矩阵计算\bin\Debug\矩阵计算.exe
+E:\秘籍\Mapping program design\矩阵计算\矩阵计算\矩阵计算\bin\Debug\矩阵计算.pdb
+E:\秘籍\Mapping program design\矩阵计算\矩阵计算\矩阵计算\obj\Debug\矩阵计算.csprojAssemblyReference.cache
+E:\秘籍\Mapping program design\矩阵计算\矩阵计算\矩阵计算\obj\Debug\矩阵计算.Form1.resources
+E:\秘籍\Mapping program design\矩阵计算\矩阵计算\矩阵计算\obj\Debug\矩阵计算.Properties.Resources.resources
+E:\秘籍\Mapping program design\矩阵计算\矩阵计算\矩阵计算\obj\Debug\矩阵计算.csproj.GenerateResource.cache
+E:\秘籍\Mapping program design\矩阵计算\矩阵计算\矩阵计算\obj\Debug\矩阵计算.csproj.CoreCompileInputs.cache
+E:\秘籍\Mapping program design\矩阵计算\矩阵计算\矩阵计算\obj\Debug\矩阵计算.exe
+E:\秘籍\Mapping program design\矩阵计算\矩阵计算\矩阵计算\obj\Debug\矩阵计算.pdb

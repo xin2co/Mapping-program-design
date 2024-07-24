@@ -1,0 +1,10 @@
+E:\C#项目\空间数据分析722\空间数据分析722\bin\Debug\空间数据分析722.exe.config
+E:\C#项目\空间数据分析722\空间数据分析722\bin\Debug\空间数据分析722.exe
+E:\C#项目\空间数据分析722\空间数据分析722\bin\Debug\空间数据分析722.pdb
+E:\C#项目\空间数据分析722\空间数据分析722\obj\Debug\空间数据分析722.csprojAssemblyReference.cache
+E:\C#项目\空间数据分析722\空间数据分析722\obj\Debug\空间数据分析722.Form1.resources
+E:\C#项目\空间数据分析722\空间数据分析722\obj\Debug\空间数据分析722.Properties.Resources.resources
+E:\C#项目\空间数据分析722\空间数据分析722\obj\Debug\空间数据分析722.csproj.GenerateResource.cache
+E:\C#项目\空间数据分析722\空间数据分析722\obj\Debug\空间数据分析722.csproj.CoreCompileInputs.cache
+E:\C#项目\空间数据分析722\空间数据分析722\obj\Debug\空间数据分析722.exe
+E:\C#项目\空间数据分析722\空间数据分析722\obj\Debug\空间数据分析722.pdb

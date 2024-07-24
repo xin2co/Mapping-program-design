@@ -1,0 +1,9 @@
+E:\C#文件\矩阵计算\矩阵计算\bin\Release\矩阵计算.exe.config
+E:\C#文件\矩阵计算\矩阵计算\bin\Release\矩阵计算.exe
+E:\C#文件\矩阵计算\矩阵计算\bin\Release\矩阵计算.pdb
+E:\C#文件\矩阵计算\矩阵计算\obj\Release\矩阵计算.Form1.resources
+E:\C#文件\矩阵计算\矩阵计算\obj\Release\矩阵计算.Properties.Resources.resources
+E:\C#文件\矩阵计算\矩阵计算\obj\Release\矩阵计算.csproj.GenerateResource.cache
+E:\C#文件\矩阵计算\矩阵计算\obj\Release\矩阵计算.csproj.CoreCompileInputs.cache
+E:\C#文件\矩阵计算\矩阵计算\obj\Release\矩阵计算.exe
+E:\C#文件\矩阵计算\矩阵计算\obj\Release\矩阵计算.pdb

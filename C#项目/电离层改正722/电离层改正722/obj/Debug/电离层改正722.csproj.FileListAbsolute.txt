@@ -1,0 +1,10 @@
+E:\C#项目\电离层改正722\电离层改正722\bin\Debug\电离层改正722.exe.config
+E:\C#项目\电离层改正722\电离层改正722\bin\Debug\电离层改正722.exe
+E:\C#项目\电离层改正722\电离层改正722\bin\Debug\电离层改正722.pdb
+E:\C#项目\电离层改正722\电离层改正722\obj\Debug\电离层改正722.csprojAssemblyReference.cache
+E:\C#项目\电离层改正722\电离层改正722\obj\Debug\电离层改正722.Form1.resources
+E:\C#项目\电离层改正722\电离层改正722\obj\Debug\电离层改正722.Properties.Resources.resources
+E:\C#项目\电离层改正722\电离层改正722\obj\Debug\电离层改正722.csproj.GenerateResource.cache
+E:\C#项目\电离层改正722\电离层改正722\obj\Debug\电离层改正722.csproj.CoreCompileInputs.cache
+E:\C#项目\电离层改正722\电离层改正722\obj\Debug\电离层改正722.exe
+E:\C#项目\电离层改正722\电离层改正722\obj\Debug\电离层改正722.pdb

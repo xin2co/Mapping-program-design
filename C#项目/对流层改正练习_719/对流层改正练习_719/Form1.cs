@@ -117,7 +117,7 @@ namespace 对流层改正练习_719
         }
         private double[] Calgan(Point p)
         {
-            double phi = p.L;
+            double phi = Math.Abs(p.L);
             double[,] Avg = new double[,]
 {
         {15, 0.0012769934, 0.0029153695, 0.062610505},
@@ -144,17 +144,17 @@ namespace 对流层改正练习_719
                 i++;
             }
             int t = Calday(p);
-            if (phi < 15)
+            if (phi <= 15)
             {
                 ad = Avg[0, 1] + Avg[0, 1] * (Math.Cos(2 * Math.PI * ((t - 28) / 365.25)));
                 bd = Avg[0, 2] + Avg[0, 2] * (Math.Cos(2 * Math.PI * ((t - 28) / 365.25)));
                 cd = Avg[0, 3] + Avg[0, 3] * (Math.Cos(2 * Math.PI * ((t - 28) / 365.25)));
             }
-            else if (phi >= 15 && phi <= 75)
+            else if (phi > 15 && phi < 75)
             {
-                ad = Avg[0, 1] + (Avg[i + 1, 1] - Avg[i, 1]) * ((phi - Avg[i, 0]) / (Avg[i + 1, 0] - Avg[i, 0])) + (Amp[i, 1] + (Amp[i + 1, 1] - Amp[i, 1]) * ((phi - Avg[i, 0]) / (Avg[i + 1, 0] - Avg[i, 0])) * Math.Cos(2 * Math.PI * (t - 28) / 365.25));
-                bd = Avg[0, 2] + (Avg[i + 1, 2] - Avg[i, 2]) * ((phi - Avg[i, 0]) / (Avg[i + 1, 0] - Avg[i, 0])) + (Amp[i, 2] + (Amp[i + 1, 2] - Amp[i, 2]) * ((phi - Avg[i, 0]) / (Avg[i + 1, 0] - Avg[i, 0])) * Math.Cos(2 * Math.PI * (t - 28) / 365.25));
-                cd = Avg[0, 3] + (Avg[i + 1, 3] - Avg[i, 3]) * ((phi - Avg[i, 0]) / (Avg[i + 1, 0] - Avg[i, 0])) + (Amp[i, 3] + (Amp[i + 1, 3] - Amp[i, 3]) * ((phi - Avg[i, 0]) / (Avg[i + 1, 0] - Avg[i, 0])) * Math.Cos(2 * Math.PI * (t - 28) / 365.25));
+                ad = Avg[i, 1] + (Avg[i + 1, 1] - Avg[i, 1]) * ((phi - Avg[i, 0]) / (Avg[i + 1, 0] - Avg[i, 0])) + (Amp[i, 1] + (Amp[i + 1, 1] - Amp[i, 1]) * ((phi - Avg[i, 0]) / (Avg[i + 1, 0] - Avg[i, 0])) * Math.Cos(2 * Math.PI * (t - 28) / 365.25));
+                bd = Avg[i, 2] + (Avg[i + 1, 2] - Avg[i, 2]) * ((phi - Avg[i, 0]) / (Avg[i + 1, 0] - Avg[i, 0])) + (Amp[i, 2] + (Amp[i + 1, 2] - Amp[i, 2]) * ((phi - Avg[i, 0]) / (Avg[i + 1, 0] - Avg[i, 0])) * Math.Cos(2 * Math.PI * (t - 28) / 365.25));
+                cd = Avg[i, 3] + (Avg[i + 1, 3] - Avg[i, 3]) * ((phi - Avg[i, 0]) / (Avg[i + 1, 0] - Avg[i, 0])) + (Amp[i, 3] + (Amp[i + 1, 3] - Amp[i, 3]) * ((phi - Avg[i, 0]) / (Avg[i + 1, 0] - Avg[i, 0])) * Math.Cos(2 * Math.PI * (t - 28) / 365.25));
             }
             else
             {

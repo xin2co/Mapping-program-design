@@ -1,0 +1,10 @@
+E:\C#项目\大地线计算721\大地线计算721\bin\Debug\大地线计算721.exe.config
+E:\C#项目\大地线计算721\大地线计算721\bin\Debug\大地线计算721.exe
+E:\C#项目\大地线计算721\大地线计算721\bin\Debug\大地线计算721.pdb
+E:\C#项目\大地线计算721\大地线计算721\obj\Debug\大地线计算722.csprojAssemblyReference.cache
+E:\C#项目\大地线计算721\大地线计算721\obj\Debug\大地线计算722.Form1.resources
+E:\C#项目\大地线计算721\大地线计算721\obj\Debug\大地线计算721.Properties.Resources.resources
+E:\C#项目\大地线计算721\大地线计算721\obj\Debug\大地线计算722.csproj.GenerateResource.cache
+E:\C#项目\大地线计算721\大地线计算721\obj\Debug\大地线计算722.csproj.CoreCompileInputs.cache
+E:\C#项目\大地线计算721\大地线计算721\obj\Debug\大地线计算721.exe
+E:\C#项目\大地线计算721\大地线计算721\obj\Debug\大地线计算721.pdb

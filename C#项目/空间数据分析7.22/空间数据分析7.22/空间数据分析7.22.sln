@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34930.48
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "空间数据分析7.22", "空间数据分析7.22\空间数据分析7.22.csproj", "{AD92D3D1-1E9E-4752-B468-7D4BBB009E3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD92D3D1-1E9E-4752-B468-7D4BBB009E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD92D3D1-1E9E-4752-B468-7D4BBB009E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD92D3D1-1E9E-4752-B468-7D4BBB009E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD92D3D1-1E9E-4752-B468-7D4BBB009E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C944B20-C5A5-4187-BCD6-2A1634EB438E}
+	EndGlobalSection
+EndGlobal

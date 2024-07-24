@@ -1,0 +1,10 @@
+E:\C#项目\大地线练习720\大地线练习720\bin\Debug\大地线练习720.exe.config
+E:\C#项目\大地线练习720\大地线练习720\bin\Debug\大地线练习720.exe
+E:\C#项目\大地线练习720\大地线练习720\bin\Debug\大地线练习720.pdb
+E:\C#项目\大地线练习720\大地线练习720\obj\Debug\大地线练习720.csprojAssemblyReference.cache
+E:\C#项目\大地线练习720\大地线练习720\obj\Debug\大地线练习720.Form1.resources
+E:\C#项目\大地线练习720\大地线练习720\obj\Debug\大地线练习720.Properties.Resources.resources
+E:\C#项目\大地线练习720\大地线练习720\obj\Debug\大地线练习720.csproj.GenerateResource.cache
+E:\C#项目\大地线练习720\大地线练习720\obj\Debug\大地线练习720.csproj.CoreCompileInputs.cache
+E:\C#项目\大地线练习720\大地线练习720\obj\Debug\大地线练习720.exe
+E:\C#项目\大地线练习720\大地线练习720\obj\Debug\大地线练习720.pdb
